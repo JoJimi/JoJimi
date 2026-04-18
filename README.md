@@ -6,7 +6,7 @@
 잘 부탁드립니다!**
 <br><br><br>
 
-### Stacks
+**Stacks**
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white">
@@ -27,7 +27,7 @@
 </div>
 <br><br>
 
-### I've used
+**I've used**
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
@@ -40,10 +40,6 @@
 </div>
 <br><br><br>
 
-### Qualifications
-- **정보처리기사 (한국산업인력공단, 25.09.12)**
-<br><br><br>
-
 ### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoJimi&show_icons=true&theme=shadow_green)
 <br><br><br>
@@ -53,7 +49,7 @@
 <br><br><br>
 
 ### Contact
-duddnddnfl@naver.com
-https://github.com/JoJimi
-https://velog.io/@duddnddnfl/posts
+이메일: duddnddnfl@naver.com <br>
+깃허브: https://github.com/JoJimi <br>
+Velog: https://velog.io/@duddnddnfl/posts
 
