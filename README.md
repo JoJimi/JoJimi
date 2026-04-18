@@ -32,6 +32,10 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <br>
+
+  <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  <br>
   
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
@@ -49,7 +53,7 @@
 <br><br><br>
 
 ### Contact
-이메일: duddnddnfl@naver.com <br>
-깃허브: https://github.com/JoJimi <br>
-Velog: https://velog.io/@duddnddnfl/posts
+**이메일:** duddnddnfl@naver.com <br>
+**깃허브:** https://github.com/JoJimi <br>
+**Velog:** https://velog.io/@duddnddnfl/posts
 
