@@ -4,7 +4,7 @@
 **안녕하세요. 저는 주니어 개발자 조영웅입니다.
 백엔드, DevOps, AI에 관심을 가지고 있습니다.
 잘 부탁드립니다!**
-<br><br>
+<br><br><br>
 
 ### Stacks
 <div align=center> 
@@ -25,12 +25,12 @@
   <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
   <br>
 </div>
+<br><br>
 
 ### I've used
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
@@ -38,11 +38,11 @@
   <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
   <br>
 </div>
-<br><br>
+<br><br><br>
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoJimi&show_icons=true&theme=shadow_green)
-<br><br>
+<br><br><br>
 
 ## Backjoon Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duddnddnfl)](https://solved.ac/duddnddnfl/)
