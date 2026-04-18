@@ -14,11 +14,11 @@
 <img src="https://img.shields.io/badge/표시될 이름-색상?style=for-the-badge&logo=기술스택이름&logoColor=로고색상">
 <img src="https://img.shields.io/badge/표시될 이름-색상?style=for-the-badge&logo=기술스택이름&logoColor=로고색상">
 <img src="https://img.shields.io/badge/표시될 이름-색상?style=for-the-badge&logo=기술스택이름&logoColor=로고색상">
-<br>
+<br><br>
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoJimi&show_icons=true&theme=shadow_green)
-<br>
+<br><br>
 
 ## Backjoon Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duddnddnfl)](https://solved.ac/duddnddnfl/)
