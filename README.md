@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JoJimi's%20GitHub&fontSize=70)
 
-## Introduce
+### 자기소개
 **안녕하세요. 저는 주니어 개발자 조영웅입니다.
 백엔드, DevOps, AI에 관심을 가지고 있습니다.
 잘 부탁드립니다!**
@@ -40,16 +40,19 @@
 </div>
 <br><br><br>
 
-## Qualifications
+### Qualifications
 - **정보처리기사 (한국산업인력공단, 25.09.12)**
 <br><br><br>
 
-## GitHub Stats
+### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoJimi&show_icons=true&theme=shadow_green)
 <br><br><br>
 
-## Backjoon Algorithm
+### Backjoon Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duddnddnfl)](https://solved.ac/duddnddnfl/)
+<br><br><br>
 
+### Contact
+📧 duddnddnfl@naver.com
 
 
