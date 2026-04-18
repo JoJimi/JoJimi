@@ -1,11 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JoJimi's%20GitHub&fontSize=70)
 
 ## 자기소개
-안녕하세요. 저는 주니어 개발자 조영웅입니다.
-백엔드, DevOps, AI에 관심을 가지고 있습니다.
-잘 부탁드립니다!
+### 안녕하세요. 저는 주니어 개발자 조영웅입니다.
+### 백엔드, DevOps, AI에 관심을 가지고 있습니다.
+### 잘 부탁드립니다!
+
+<br><br>
 
 ## 기술스택
+<img src="https://img.shields.io/badge/#F05032?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/표시될 이름-색상?style=for-the-badge&logo=기술스택이름&logoColor=로고색상">
+<img src="https://img.shields.io/badge/표시될 이름-색상?style=for-the-badge&logo=기술스택이름&logoColor=로고색상">
+<img src="https://img.shields.io/badge/표시될 이름-색상?style=for-the-badge&logo=기술스택이름&logoColor=로고색상">
+<img src="https://img.shields.io/badge/표시될 이름-색상?style=for-the-badge&logo=기술스택이름&logoColor=로고색상">
 
 
 ## 백준 알고리즘
