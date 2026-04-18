@@ -8,8 +8,9 @@
 <br><br>
 
 ## 기술스택
-<img src="https://img.shields.io/badge/#F05032?style=for-the-badge&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/표시될 이름-색상?style=for-the-badge&logo=기술스택이름&logoColor=로고색상">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"><br>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br>
 <img src="https://img.shields.io/badge/표시될 이름-색상?style=for-the-badge&logo=기술스택이름&logoColor=로고색상">
 <img src="https://img.shields.io/badge/표시될 이름-색상?style=for-the-badge&logo=기술스택이름&logoColor=로고색상">
 <img src="https://img.shields.io/badge/표시될 이름-색상?style=for-the-badge&logo=기술스택이름&logoColor=로고색상">
