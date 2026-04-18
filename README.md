@@ -6,7 +6,7 @@
 잘 부탁드립니다!**
 <br><br><br>
 
-**Stacks**
+**👍 Stacks**
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white">
@@ -27,7 +27,7 @@
 </div>
 <br><br>
 
-**I've used**
+**👌 I've used**
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
