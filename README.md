@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=blue&height=300&section=header&text=Hello!%20Welcome%20To%20My%20Profile&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello!%20Welcome%20To%20My%20Profile&fontSize=40)
 
 ## 자기소개
 안녕하세요. 저는 주니어 개발자 조영웅입니다.
