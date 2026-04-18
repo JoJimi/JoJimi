@@ -53,6 +53,7 @@
 <br><br><br>
 
 ### Contact
-📧 duddnddnfl@naver.com
-
+duddnddnfl@naver.com
+https://github.com/JoJimi
+https://velog.io/@duddnddnfl/posts
 
