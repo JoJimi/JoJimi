@@ -40,6 +40,10 @@
 </div>
 <br><br><br>
 
+## Qualifications
+- **정보처리기사 (한국산업인력공단, 25.09.12)**
+<br><br><br>
+
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoJimi&show_icons=true&theme=shadow_green)
 <br><br><br>
