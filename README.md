@@ -55,5 +55,5 @@
 ### Contact
 **이메일:** duddnddnfl@naver.com <br>
 **깃허브:** https://github.com/JoJimi <br>
-**Velog:** https://velog.io/@duddnddnfl/posts
+**Velog:** https://velog.io/@duddnddnfl
 
