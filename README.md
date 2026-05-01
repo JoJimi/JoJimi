@@ -44,6 +44,10 @@ Server, DevOps, AI에 관심을 가지고 있습니다.
 </div>
 <br><br><br>
 
+### Qualifications
+- 정보처리기사 (25.09.12)
+- 토익스피킹 IM3 (25.09.21)
+
 ### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoJimi&show_icons=true&theme=shadow_green)
 <br><br><br>
