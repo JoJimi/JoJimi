@@ -42,3 +42,5 @@ Server, DevOps에 관심을 가지고 있습니다.
 **깃허브:** https://github.com/JoJimi <br>
 **Velog:** https://velog.io/@duddnddnfl
 
+### 포트폴리오
+**Notion:** https://www.notion.so/Jo-YeongUng-Resume-d9b7b21b5b078202be6701cfac77e37e?source=copy_link
