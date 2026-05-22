@@ -44,4 +44,4 @@ Server, DevOps에 관심을 가지고 있습니다.
 <br><br><br>
 
 ### 포트폴리오
-**Notion:** https://www.notion.so/Jo-YeongUng-Resume-d9b7b21b5b078202be6701cfac77e37e?source=copy_link
+![**Notion**](https://www.notion.so/Jo-YeongUng-Resume-d9b7b21b5b078202be6701cfac77e37e?source=copy_link)
