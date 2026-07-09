@@ -30,8 +30,8 @@ Server, DevOps에 관심을 가지고 있습니다.
 ### Qualifications
 - **SQLD** (26.06.19)
 - **AICE Associate** (26.05.09)
-- **토익스피킹 IM3** (25.09.21)
 - **정보처리기사** (25.09.12)
+- **토익스피킹 IH** (26.07.04)
 <br><br><br>
 
 ### GitHub Stats
