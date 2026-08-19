@@ -32,7 +32,7 @@ Server, DevOps에 관심을 가지고 있습니다.
 - **AICE Associate** (26.05.09)
 - **정보처리기사** (25.09.12)
 - **토익스피킹 IH** (26.07.04)
-<br><br><br>
+<br><br>
 
 ### Contact
 **이메일:** duddnddnfl@naver.com <br>
