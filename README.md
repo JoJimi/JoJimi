@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JoJimi's%20GitHub&fontSize=70)
 
 ### 자기소개
-**안녕하세요. 저는 주니어 개발자 조영웅입니다.
+**안녕하세요. 저는 주니어 개발자입니다.
 Server, DevOps에 관심을 가지고 있습니다.
 잘 부탁드립니다!**
 <br><br><br>
