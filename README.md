@@ -27,10 +27,11 @@
 <br><br><br>
 
 ### Qualifications
+- **토익스피킹 IH** (26.07.04)
 - **SQLD** (26.06.19)
 - **AICE Associate** (26.05.09)
 - **정보처리기사** (25.09.12)
-- **토익스피킹 IH** (26.07.04)
+
 <br><br>
 
 ### 경력
@@ -41,7 +42,7 @@
 
 <br><br>
 
-### 프로젝트
+### 주요 프로젝트
 - **신용평가 AI 규제준수 자동감사 플랫폼**(26.06 ~ 26.09)
   - KT AIVLE School 빅프로젝트 우수상(7인/PM)
   - Java, Spring Boot, Python, FastAPI, TypeScript, PostgreSQL, Redis, MinIO, Docker, Prometheus, Grafana, Github Actions, AWS, OpenAI API, JUnit5, TestContainers, K6
