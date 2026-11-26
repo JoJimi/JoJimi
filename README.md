@@ -36,7 +36,7 @@
 
 ### 경력
 - 그루크리에이티브랩(24.12 ~ 25.02)
-  - **AI 기반 CCTV 분석 시스템 운영**<br>Nvidia Orin Nx Jetpack 5.1.3, Ubuntu 20.04 LTS, Python, FastAPI, Pytorch, TensorFlow, YOLOv8, p2pnet, FireNet, Modbus RS485
+  - **AI 기반 CCTV 분석 시스템 운영**<br>Nvidia Orin Nx Jetpack 5.1.3, Ubuntu 20.04 LTS, Cuda, Python, FastAPI, Pytorch, TensorFlow, YOLOv8, p2pnet, FireNet, Modbus RS485
 - 비케이에스엔피(26.12 ~ 현재)
   - **하나은행 외부 API 개발 및 운영**<br>Java, SpringBoot, OracleDB, Kubernetes, OpenShift, DevOn
 
