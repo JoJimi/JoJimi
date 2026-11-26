@@ -24,13 +24,6 @@
   <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
   <br>
 </div>
-<br><br><br>
-
-### Qualifications
-- **토익스피킹 IH** (26.07.04)
-- **SQLD** (26.06.19)
-- **AICE Associate** (26.05.09)
-- **정보처리기사** (25.09.12)
 
 <br><br>
 
@@ -52,6 +45,14 @@
 - **개인 맞춤형 레시피 추천 서비스**(24.11 ~ 26.09)
   - 종합설계 프로젝트(4인/PM&백엔드&DevOps)
   - Java, Spring Boot, MySQL, Redis, Docker, Github Actions, AWS, OpenAI API, 레시피 공공데이터 API(레시피, 재료, 도구), 네이버 쇼핑 API, JUnit5
+
+<br><br>
+
+### Qualifications
+- **토익스피킹 IH** (26.07.04)
+- **SQLD** (26.06.19)
+- **AICE Associate** (26.05.09)
+- **정보처리기사** (25.09.12)
 
 <br><br>
 
