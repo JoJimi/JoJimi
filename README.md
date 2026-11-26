@@ -36,7 +36,7 @@
 
 ### 경력
 - 그루크리에이티브랩(24.12 ~ 25.02)
-  - **AI 기반 CCTV 분석 시스템 운영**<br>Nvidia Orin Nx Jetpack 5.1.3, Ubuntu 20.04 LTS, Cuda, Python, FastAPI, Pytorch, TensorFlow, YOLOv8·p2pnet·FireNet, Modbus RS485
+  - **AI 기반 CCTV 분석 시스템 운영**<br>Nvidia Orin Nx Jetpack 5.1.3, Ubuntu 20.04 LTS, Python, FastAPI, Pytorch, TensorFlow, YOLOv8, p2pnet, FireNet, Modbus RS485
 - 비케이에스엔피(26.12 ~ 현재)
   - **하나은행 외부 API 개발 및 운영**<br>Java, SpringBoot, OracleDB, Kubernetes, OpenShift, DevOn
 
@@ -44,7 +44,7 @@
 
 ### 주요 프로젝트
 - **신용평가 AI 규제준수 자동감사 플랫폼**(26.06 ~ 26.09)
-  - KT AIVLE School 빅프로젝트 우수상(7인/PM)
+  - KT AIVLE School(Dean's List) 빅프로젝트 우수상(7인/PM)
   - Java, Spring Boot, Python, FastAPI, TypeScript, PostgreSQL, Redis, MinIO, Docker, Prometheus, Grafana, Github Actions, AWS, OpenAI API, JUnit5, TestContainers, K6
 - **이벤트 기반 주문 처리 플랫폼**(25.11 ~ 26.02)
   - 개인 프로젝트(1인)
