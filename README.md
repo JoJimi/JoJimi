@@ -42,8 +42,9 @@
 - **이벤트 기반 주문 처리 플랫폼**(25.11 ~ 26.02)
   - 개인 프로젝트(1인)
   - Java, Spring Boot, PostgreSQL, Redis, Kafka, Nginx, ElasticSearch, Docker, Prometheus, Grafana, Github Actions, Kubernetes, Toss Payments API, K6
-- **개인 맞춤형 레시피 추천 서비스**(24.11 ~ 26.09)
+- **개인 맞춤형 레시피 추천 서비스**(24.09 ~ 26.09)
   - 종합설계 프로젝트(4인/PM&백엔드&DevOps)
+  - KCI 논문 게재(2026.02, 한국컴퓨터정보학회 논문지 제31권 제2호(통권 제263호), DOI: 10.9708/jksci.2026.31.02.161)
   - Java, Spring Boot, MySQL, Redis, Docker, Github Actions, AWS, OpenAI API, 레시피 공공데이터 API(레시피, 재료, 도구), 네이버 쇼핑 API, JUnit5
 
 <br><br>
