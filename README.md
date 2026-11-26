@@ -5,7 +5,7 @@
 잘 부탁드립니다!**
 <br><br><br>
 
-### 👍 Stacks
+### Stacks👍
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white">
@@ -48,7 +48,7 @@
 
 <br><br>
 
-### Qualifications
+### 자격증
 - **토익스피킹 IH** (26.07.04)
 - **SQLD** (26.06.19)
 - **AICE Associate** (26.05.09)
